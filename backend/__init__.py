@@ -1,0 +1,1 @@
+# Smart Yoga Trainer Backend
